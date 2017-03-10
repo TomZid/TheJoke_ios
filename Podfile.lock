@@ -1,0 +1,24 @@
+PODS:
+  - CVCalendar (1.4.1)
+  - FoldingCell (2.0.3)
+  - FSCalendar (2.7.2)
+  - IGListKit (2.0.0)
+  - JTAppleCalendar (6.1.2)
+
+DEPENDENCIES:
+  - CVCalendar (~> 1.4.1)
+  - FoldingCell (~> 2.0.3)
+  - FSCalendar
+  - IGListKit (~> 2.0.0)
+  - JTAppleCalendar (~> 6.1)
+
+SPEC CHECKSUMS:
+  CVCalendar: 61912eb5dc39c3bcfe22a731147a559a696fbc15
+  FoldingCell: 2f3113051609167776743415fc00ed877ac6d62c
+  FSCalendar: 6200ef796dfe85005ff2fb19bbd429f8be742f86
+  IGListKit: ee255e4e61865bc3e01ca96b690c5435c2887849
+  JTAppleCalendar: 4424fdd0daac0daf1db93299c07949505055135d
+
+PODFILE CHECKSUM: ee387f012c44b67dfc9376b72315d4f288b1116b
+
+COCOAPODS: 1.2.0
